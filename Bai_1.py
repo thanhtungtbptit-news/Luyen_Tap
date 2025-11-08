@@ -1,0 +1,6 @@
+text=input("Nhập một chuỗi kí tự : ")
+a=text.capitalize()
+b=text.title()
+c=text.lower()
+d=text.upper()
+print(a,b,c,d,sep="\n")
